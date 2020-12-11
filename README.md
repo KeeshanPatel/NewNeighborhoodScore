@@ -1,5 +1,8 @@
-# NewNeighborhoodScore
-Final Project for AI-Human Interaction @ UT Austin - Fall 2020
+# New Neighborhood Score
+Final Project for AI-Human Interaction
+UT Austin - Fall 2020
+Profesoor: Min Kyung Lee
+TA: Akef Abeid
 
 ## Aggregation and Analysis of Data
 [Excel Sheet](https://github.com/KeeshanPatel/NewNeighborhoodScore/blob/main/AnalysisSheet.xlsx)
