@@ -1,7 +1,7 @@
 # New Neighborhood Score
 Final Project for AI-Human Interaction
 
-UT Austin - Fall 2020
+UT Austin School of Information - Fall 2020
 
 Profesoor: Min Kyung Lee
 
