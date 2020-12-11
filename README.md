@@ -11,3 +11,5 @@ Final Project for AI-Human Interaction @ UT Austin - Fall 2020
 ## Demo Application
 [Python Project](https://github.com/KeeshanPatel/NewNeighborhoodScore/tree/main/Python%20Application)
 
+## Youtube Video of Project
+[Video](https://www.youtube.com/watch?v=OFyd6a-0IC8&feature=youtu.be)
